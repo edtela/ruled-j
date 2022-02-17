@@ -1,0 +1,29 @@
+{
+  "name": "ruled-j",
+  "version": "0.0.1",
+  "description": "JSQN backend modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edtela/ruled-j.git"
+  },
+  "keywords": [
+    "jsqn",
+    "json",
+    "typescript"
+  ],
+  "author": "Edvin Tela",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/edtela/ruled-j/issues"
+  },
+  "homepage": "https://github.com/edtela/ruled-j#readme",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "typescript": "^4.5.5"
+  }
+}
